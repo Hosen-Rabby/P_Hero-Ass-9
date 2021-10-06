@@ -1,0 +1,14 @@
+.not_found{
+    position: absolute;
+    top: 50%;
+    font-weight: bold;
+    left: 50%;
+    transform: translate(-50%,50%);
+    color: #eb2b00;
+    font-size: 70px;
+    text-shadow: 2px 2px #c9bcbc;
+}
+
+.notfound_img{
+    max-height: 100vh;
+}
